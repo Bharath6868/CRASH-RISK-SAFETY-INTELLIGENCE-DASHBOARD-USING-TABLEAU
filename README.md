@@ -9,7 +9,7 @@
 https://public.tableau.com/app/profile/anurag.kumar.singh7896/viz/CAPSTONE_TABLEAU_CRASH/Dashboard1?publish=yes  
 
 ▶ **GitHub Repository (Dataset, Tableau File, Documentation)**  
-https://github.com/anuragkumarsingh4440-netizen/CRASH-RISK-SAFETY-INTELLIGENCE-DASHBOARD-USING-TABLEAU-.git  
+https://github.com/Bharath6868/CRASH-RISK-SAFETY-INTELLIGENCE-DASHBOARD-USING-TABLEAU
 
 ▶ **Demo Video (LinkedIn)**  
 
