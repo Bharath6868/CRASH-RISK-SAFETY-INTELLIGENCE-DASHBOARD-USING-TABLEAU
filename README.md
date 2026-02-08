@@ -12,7 +12,7 @@ https://public.tableau.com/app/profile/anurag.kumar.singh7896/viz/CAPSTONE_TABLE
 https://github.com/Bharath6868/CRASH-RISK-SAFETY-INTELLIGENCE-DASHBOARD-USING-TABLEAU
 
 ▶ **Demo Video (LinkedIn)**  
-
+https://www.linkedin.com/posts/bharath-r-354535212_dataanalytics-tableau-datavisualization-activity-7426287046324940800-W1F8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXT8rAB8GHgQafV5jJwEb1AMCLknTtKmO8
 
 
 ---
@@ -163,7 +163,7 @@ Anyone can **download and run this dashboard locally** in Tableau.
 
 ## 👤 About the Author
 
-**Anurag Kumar Singh**  
+**Bharath R**  
 Data Analyst | Visualization Specialist | Safety Intelligence  
 
 This project reflects my ability to:
