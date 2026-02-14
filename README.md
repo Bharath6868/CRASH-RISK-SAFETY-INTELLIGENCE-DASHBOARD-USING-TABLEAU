@@ -6,7 +6,7 @@
 ## 🔗 Live Links (Access First)
 
 ▶ **Tableau Public – Live Interactive Dashboard**  
-https://public.tableau.com/app/profile/anurag.kumar.singh7896/viz/CAPSTONE_TABLEAU_CRASH/Dashboard1?publish=yes  
+https://public.tableau.com/app/profile/bharath.r6457/viz/Capstone_Tableau_Crash_Data/Dashboard1
 
 ▶ **GitHub Repository (Dataset, Tableau File, Documentation)**  
 https://github.com/Bharath6868/CRASH-RISK-SAFETY-INTELLIGENCE-DASHBOARD-USING-TABLEAU
